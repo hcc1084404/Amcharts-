@@ -5,7 +5,7 @@ amcharts圖表使用總結
 Amcharts JS 版屬性/方法詳細說明書
 
 1、     座標軸（Y軸）  
-序號     屬性名/方法名     作用     物件獲取方法/常用屬性值     示例
+序號     屬性名/方法名     作用     物件獲取方法/常用屬性值     示例;
 1     valueAxis物件     圖表的Y軸，一個圖表中可以有多個Y軸     Var valueAxis = new AmCharts.ValueAxis();    
 2     axisColor      軸的顏色            valueAxis.axisColor = "#FF6600";
 3     axisThickness     軸的寬度          valueAxis.axisThickness = 1;
